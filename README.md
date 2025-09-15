@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm an AI researcher and maker passionate and fascinated with many things. Currently, I'm researching AI risk, and building humane technologies.
+
+See below for some past projects I'm proud of.
 <!--
 **lcb931023/lcb931023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
